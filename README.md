@@ -34,6 +34,11 @@ Built using **Python**, **OpenCV**, and **MediaPipe**.
 - **Thumb + Index pinch**: Touch thumb and index finger to instantly click.
 
 ---
-
 ## 🚀 How to Run
+
 Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/Purna-Chandra-kumar/Gesture-control-calculator.git
+
+cd Gesture-control-calculator
